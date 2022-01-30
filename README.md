@@ -52,3 +52,5 @@ import PopoverPresenter
 popoverPresenter.currentPopover = AnyView(Text("This is alert!"))
 popoverPresenter.activePopover = .any
 ```
+
+You may look iOS example in package for guide steps above.
