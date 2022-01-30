@@ -9,6 +9,10 @@ Demo project with tutorial how to customize alerts or popovers in SwiftUI based 
 
 Before starting highly recommended to read [SwiftUI Custom Environment Values](https://useyourloaf.com/blog/swiftui-custom-environment-values/).
 
+<p align="center">
+<img src="popover_demo.gif" alt="demo" height="600">
+</p>
+
 ## Installation
 
 To use PopoverPresenter with a project targeting iOS 13, simply copy folder `Source` into your project.
