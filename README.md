@@ -58,3 +58,5 @@ popoverPresenter.activePopover = .any
 ```
 
 You may look iOS example in package for guide steps above.
+
+👨🏻‍💻 Subscribe to my channel **[SwiftUI dev](https://t.me/swiftui_dev)** in telegram.
