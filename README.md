@@ -5,6 +5,8 @@
     <img src="https://img.shields.io/badge/framework-SwiftUI-blue" />
 </p>
 
+👨🏻‍💻 Feel free to subscribe to channel **[SwiftUI dev](https://t.me/swiftui_dev)** in telegram.
+
 Demo project with tutorial how to customize alerts or popovers in SwiftUI based on [this article](https://medium.com/@ihamadfuad/swiftui-present-sheet-from-anywhere-using-environment-6104b2bd7d4e).
 
 Before starting highly recommended to read [SwiftUI Custom Environment Values](https://useyourloaf.com/blog/swiftui-custom-environment-values/).
@@ -58,5 +60,3 @@ popoverPresenter.activePopover = .any
 ```
 
 You may look iOS example in package for guide steps above.
-
-👨🏻‍💻 Subscribe to my channel **[SwiftUI dev](https://t.me/swiftui_dev)** in telegram.
