@@ -41,3 +41,9 @@ struct StarImage: View {
         Image(systemName: "star.fill").foregroundColor( isFilled ? .yellow : .gray)
     }
 }
+
+struct SampleRow_Previews: PreviewProvider {
+    static var previews: some View {
+        SampleRow.init(id: 1, emoji: "🍔", rating: 3)
+    }
+}

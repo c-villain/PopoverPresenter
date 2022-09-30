@@ -33,7 +33,12 @@ struct ListView: View {
                     SampleRow(id: model.id, emoji: model.emoji, rating: model.rating)
                         .onTapGesture {
                             withAnimation {
-                                popoverPresenter.currentPopover = AnyView(SampleRow(id: model.id, emoji: model.emoji, rating: model.rating))
+                                popoverPresenter.currentPopover = AnyView(
+                                    SampleRow(id: model.id, emoji: model.emoji, rating: model.rating)
+                                        .padding(12.0)
+                                        .background(Color.blue.opacity(0.5))
+                                        .cornerRadius(12)
+                                )
                                 
                                 popoverPresenter.activePopover = .any
                             }

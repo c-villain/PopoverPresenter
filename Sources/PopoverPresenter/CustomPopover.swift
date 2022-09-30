@@ -45,10 +45,7 @@ struct CustomPopover<Item, PopoverContent>: ViewModifier where Item : Identifiab
                     .zIndex(1)
                 
                 popoverContent
-                    .padding(12.0)
                     .transition(.asymmetric(insertion: .scale, removal: .move(edge: .bottom)))
-                    .background(Color.blue.opacity(0.5))
-                    .cornerRadius(12)
                     .clipped()
                     .onDisappear {
                         onDismiss?()
