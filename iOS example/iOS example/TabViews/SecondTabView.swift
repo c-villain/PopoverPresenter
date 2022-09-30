@@ -12,7 +12,12 @@ struct SecondTabView: View {
     var body: some View {
         Button {
             withAnimation {
-                popoverPresenter.currentPopover = AnyView(Text("This is alert!"))
+                popoverPresenter.currentPopover = AnyView(
+                    Text("This is alert!")
+                        .padding(12.0)
+                        .background(Color.blue.opacity(0.5))
+                        .cornerRadius(12)
+                )
                 popoverPresenter.activePopover = .any
             }
         } label: {
