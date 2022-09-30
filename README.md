@@ -1,6 +1,7 @@
 # PopoverPresenter
 
 <p align="center">
+    <img src="https://img.shields.io/badge/release-0.2.0-blue" />
     <img src="https://img.shields.io/badge/platform-IOS-blue" />
     <img src="https://img.shields.io/badge/framework-SwiftUI-blue" />
 </p>
