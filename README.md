@@ -1,10 +1,13 @@
 # PopoverPresenter
 
-<p align="center">
-    <img src="https://img.shields.io/badge/release-0.2.0-blue" />
-    <img src="https://img.shields.io/badge/platform-IOS-blue" />
-    <img src="https://img.shields.io/badge/framework-SwiftUI-blue" />
-</p>
+[![Latest release](https://img.shields.io/github/v/release/c-villain/PopoverPresenter?color=brightgreen&label=version)](https://github.com/c-villain/PopoverPresenter/releases/latest)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fc-villain%2FPopoverPresenter%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/c-villain/PopoverPresenter)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fc-villain%2FPopoverPresenter%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/c-villain/PopoverPresenter)
+[![](https://img.shields.io/badge/SPM-supported-DE5C43.svg?color=brightgreen)](https://swift.org/package-manager/)
+![](https://img.shields.io/github/license/c-villain/PopoverPresenter)
+
+[![contact: @lexkraev](https://img.shields.io/badge/contact-%40lexkraev-blue.svg?style=flat)](https://t.me/lexkraev)
+[![Telegram Group](https://img.shields.io/endpoint?color=brightgreen&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fswiftui_dev)](https://telegram.dog/swiftui_dev)
 
 👨🏻‍💻 Feel free to subscribe to channel **[SwiftUI dev](https://t.me/swiftui_dev)** in telegram.
 
